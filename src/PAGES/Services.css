@@ -1,0 +1,18 @@
+.services {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+
+.unit {
+    
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+}
